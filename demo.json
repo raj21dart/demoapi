@@ -1,0 +1,24 @@
+{
+    
+  "Please fill in template name here!":"Please fill in template name here!",
+  "Please fill in ticket title here!":"Please fill in ticket title here!",
+  "Please fill in ticket descrition here!":"Please fill in ticket descrition here!",
+  "Ticket Description (Optional)":"Ticket Description (Optional)",
+  "Users's profile":"Users's profile",
+  "Cannot send Aproval Request if Ticket is not assigned to a service":"Cannot send Aproval Request if Ticket is not assigned to a service",
+  "Request is in process":"Request is in process",
+  "Write something here":"Write something here",
+  "Has set priority as":"Has set priority as",
+  "Has set department as":"Has set department as",
+  "Has set slack channel to": "Has set slack channel to",
+  "Has set service as": "Has set service as",
+  "Removed all tags from ticket.": "Removed all tags from ticket.",
+  "Tags updated.": "Tags updated.",
+  "Has set status as": "Has set status as",
+  "Changed response time to": "Changed response time to",
+  "Changed resolution time to": "Changed resolution time to",
+  "Removed all watchers.": "Removed all watchers.",
+  "Watcher list updated": "Watcher list updated",
+  "Removed all ticket assignees.": "Removed all ticket assignees.",
+  "Assigned ticket to": "Assigned ticket to"
+}
